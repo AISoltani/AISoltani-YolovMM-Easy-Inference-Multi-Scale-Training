@@ -1,4 +1,4 @@
-# AISoltani-Yolov10-Easy-Inference-Multi-Scale-Training
+# AISoltani-YoloMM-Easy-Inference-Multi-Scale-Training
 YOLOv10 toolbox for object detection, training, and benchmarking
 
 <div align="center">
