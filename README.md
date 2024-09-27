@@ -1,5 +1,5 @@
 # AISoltani-YoloMM-Easy-Inference-Multi-Scale-Training
-YOLOv10 toolbox for object detection, training, and benchmarking
+YOLOMM toolbox for object detection, training, and benchmarking
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/25839884/219255827-67c1a27f-f8c5-46a9-811d-5e57448c61d1.png" width="10%" alt="OpenMMLab YOLO" />
