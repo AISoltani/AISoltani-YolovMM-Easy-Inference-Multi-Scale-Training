@@ -32,19 +32,4 @@ YOLOv10 toolbox for object detection, training, and benchmarking
 - [📊 Benchmark](#benchmark)
 - [💻 Contributors](#contributors)
 
----
 
-## Quick Start
-
-Here's how you can get started with the OpenMMLab YOLO Toolbox:
-
-```bash
-# Clone the repository
-git clone https://github.com/open-mmlab/mmyolo.git
-cd mmyolo
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run your first YOLO training
-python tools/train.py configs/yolov5/yolov5_s_8xb16-300e_coco.py
